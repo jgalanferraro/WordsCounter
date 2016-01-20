@@ -1,0 +1,7 @@
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\bin\Debug\WordsCounterTest.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\bin\Debug\WordsCounterTest.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\bin\Debug\WordsCounter.exe
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\bin\Debug\WordsCounter.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\obj\Debug\WordsCounterTest.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\obj\Debug\WordsCounterTest.dll
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounterTest\obj\Debug\WordsCounterTest.pdb

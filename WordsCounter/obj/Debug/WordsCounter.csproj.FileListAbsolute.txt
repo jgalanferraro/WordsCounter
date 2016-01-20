@@ -1,0 +1,17 @@
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\bin\Debug\WordsCounter.exe.config
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\MainWindow.baml
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\MainWindow.g.cs
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\App.g.cs
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter_MarkupCompile.cache
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter.g.resources
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter.Properties.Resources.resources
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter.csproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\bin\Debug\WordsCounter.exe
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\bin\Debug\WordsCounter.pdb
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter.exe
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter.pdb
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\Controls\CounterItem.baml
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\Controls\CounterItem.g.cs
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\jose\documents\visual studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter_MarkupCompile.lref
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\WordsCounter\WordsCounter\obj\Debug\WordsCounter.csprojResolveAssemblyReference.cache
